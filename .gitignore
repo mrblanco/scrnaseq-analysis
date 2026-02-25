@@ -1,0 +1,21 @@
+# Data files
+*.h5ad
+*.h5
+*.loom
+
+# Output files
+*.csv
+*.tsv
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.env
+envs/.snakemake/
+
+# OS
+.DS_Store
+Thumbs.db
